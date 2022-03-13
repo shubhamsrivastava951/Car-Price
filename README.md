@@ -1,7 +1,7 @@
 # Car-Price
 
 
-![](/Images/Car Pic.jpg)
+![](https://github.com/shubhamsrivastava951/Car-Price-Prediction/blob/main/Images/Car%20Pic.jpg)
 
 1. Created a new enviroment
 2. Loaded the Data set
