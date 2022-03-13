@@ -1,7 +1,7 @@
 # Car-Price
 
 
-![](/Images/Car Pic.jpg)
+![](/Car Pic.jpg)
 
 1. Created a new enviroment
 2. Loaded the Data set
