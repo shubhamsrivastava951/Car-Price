@@ -45,5 +45,7 @@ zipp==3.7.0
 gunicorn
 
 setuptools==57.5.0
+pip==23.3.2
+
 
 
