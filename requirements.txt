@@ -44,5 +44,6 @@ wincertstore==0.2
 zipp==3.7.0
 gunicorn
 
-setuptools==58.1.0
+setuptools==57.5.0
+
 
